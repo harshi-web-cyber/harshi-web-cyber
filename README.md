@@ -46,10 +46,7 @@
 </tr>
 </table>
 
-<br/>
-
----
-
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <!-- GITHUB STATS -->
 ## 🟩 github
 
@@ -68,13 +65,9 @@
 
 
 
-<!-- RABBITS — upload rabbit.gif to your repo first! -->
 <div align="center">
-  <img src="rabbit.gif" width="120" alt="rabbit"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="rabbit.gif" width="120" alt="rabbit"/>
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="80"/>
 </div>
-
 <br/>
 
 ---
