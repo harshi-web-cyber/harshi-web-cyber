@@ -27,7 +27,7 @@
 ---
 
 <!-- PROJECTS -->
-## 🌸 projects
+🌸 projects
 
 <table align="center" border="0">
 <tr>
@@ -48,7 +48,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <!-- GITHUB STATS -->
-## 🟩 github
+ 🟩 github
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshi-web-cyber&show_icons=true&hide_border=true&bg_color=fff5fb&title_color=c084a8&icon_color=93c5fd&text_color=9b7ab8" height="160"/>
@@ -73,7 +73,7 @@
 ---
 
 <!-- FIND ME -->
-## 💌 find me
+ 💌 find me
 
 <div align="center">
 
