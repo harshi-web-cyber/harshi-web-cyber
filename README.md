@@ -59,7 +59,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshi-web-cyber&hide_border=true&background=fff5fb&ring=f4b8d1&fire=c8b4e8&currStreakLabel=c084a8&sideLabels=9b7ab8&dates=b8c8d8"/>
+  <img src="https://streak-stats.demolab.com?user=harshi-web-cyber&hide_border=true&background=FFF5FB&ring=F4B8D1&fire=C8B4E8&currStreakLabel=C084A8&sideLabels=9B7AB8&dates=B8C8D8" />
 </div>
 
 <br/>
