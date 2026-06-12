@@ -64,14 +64,7 @@
 
 <br/>
 
-<!-- SNAKE -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1e1b2e&height=12&section=header&fontSize=1"/>
-  <img src="https://raw.githubusercontent.com/harshi-web-cyber/harshi-web-cyber/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1e1b2e&height=12&section=footer&fontSize=1"/>
-</div>
 
-<br/>
 
 <!-- RABBITS — upload rabbit.gif to your repo first! -->
 <div align="center">
