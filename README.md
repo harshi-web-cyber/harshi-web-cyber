@@ -3,8 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:e8d5f5,100:c8e6ff&height=200&section=header&text=Hi,%20I'm%20Harshidaa%20👾&fontSize=40&fontColor=6b4c7a&fontAlignY=38&desc=self%20taught%20·%20still%20learning%20·%20always%20building&descSize=17&descColor=9b7ab8&descAlignY=58&animation=fadeIn"/>
 </div>
 
-<br/>
-
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=C084A8&center=true&vCenter=true&width=600&lines=Self+taught+developer;Building+AI+projects;Always+learning+🌸" />
+</div>
 <!-- SKILLS -->
 <div align="center">
 
