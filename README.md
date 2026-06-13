@@ -78,6 +78,11 @@
 <div align="center">
 
 <div align="center">
+  <a href="YOUR_PORTSWIGGER_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="PortSwigger Academy"/>
+  </a>
+</div>
+<div align="center">
   <a href="https://tryhackme.com/p/brave.pathfinder">
     <img src="https://img.shields.io/badge/TryHackMe-brave.pathfinder-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
