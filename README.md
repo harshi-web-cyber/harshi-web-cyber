@@ -70,11 +70,18 @@
 <br/>
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshi-web-cyber&bg_color=fff5fb&color=c084a8&line=c8b4e8&point=93c5fd&hide_border=true" />
 
 <!-- FIND ME -->
  💌 find me
 
 <div align="center">
+
+<div align="center">
+  <a href="https://tryhackme.com/p/brave.pathfinder">
+    <img src="https://img.shields.io/badge/TryHackMe-brave.pathfinder-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+  </a>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bae6fd?style=for-the-badge&logo=linkedin&logoColor=1e3a5f)](https://linkedin.com/in/shri-harshidaa)
 [![Blog](https://img.shields.io/badge/Blog-e8d5f5?style=for-the-badge&logo=blogger&logoColor=6b4c7a)](https://shrithinksalot.blogspot.com)
